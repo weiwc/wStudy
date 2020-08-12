@@ -14,6 +14,7 @@ public class HelloWorldAnonymousClasses {
         void greetSomeone(String someone);
     }
 
+    @FunctionalInterface
     interface HelloWorldLambda {
         void greet();
     }

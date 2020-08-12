@@ -19,5 +19,4 @@ class WstudyApplicationTests {
         String [] in = new String[]{"4","13","5","/","+"};
         evalRPN.solution.evalRPN(in);
     }
-
 }
